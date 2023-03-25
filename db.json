@@ -1,6 +1,8 @@
 {
-  "name": "Ekaterina",
-  "position": "Frontend Developer",
-  "image": "https://avatars.githubusercontent.com/u/31934798?v=4",
-  "description": "Overcaffeinated, but still dead tired :("
+  "about": {
+    "name": "Ekaterina",
+    "position": "Frontend Developer",
+    "image": "https://avatars.githubusercontent.com/u/31934798?v=4",
+    "description": "Overcaffeinated, but still dead tired :("
+  }
 }
